@@ -1,0 +1,7 @@
+Feng		Dylan		999999	62	D
+Nayudu		Arnav		086004	40	F
+Peng		Austin		103120	71	C
+Arora		Shreyas		010120	101	A
+Virus		Corona		122520	150	A
+Sanders		Bernie		032620	35	F
+In-Place	Shelter		050120  100	A

@@ -1,0 +1,8 @@
+Gupta		Harshita	748935	111	V
+Wu		Austin		938271	222	W
+Rao		Keshav		623719	333	X
+Chhabra		Simar		817263	444	Y
+Subbaraj	Hari		716532	555	Z
+Clinton		Hillary		888888	55	F
+Sanders		Bernie		777777	65	D
+Trump		Donald		999999	75	C
